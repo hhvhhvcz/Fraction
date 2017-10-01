@@ -20,4 +20,11 @@ public class Fraction {
 		this.numberator = numberator;
 		this.denominator = denominator;
 	}
+	/**
+	 * 
+	 */
+	public Fraction() {
+		numberator = 1.0;
+		denominator = 1.0;
+	}
 }
