@@ -4,7 +4,10 @@
 
 /**
  * @author Hahaw
+ *	
  *	Fraction class
+ *
+ *	This class can store value of numerator and denominator and do basic Math operations with it. (+,-,*,/)
  */
 public class Fraction {
 	
